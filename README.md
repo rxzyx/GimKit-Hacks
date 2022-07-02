@@ -13,6 +13,8 @@
 ## Features:
 - Default Scripts:
     - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Answer%20Bot.js">Answer Bot</a> - Make a bot automatically answer the question.
+- Trust No-One:
+    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Trust%20No-One/Show%20Imposters.js">Show Imposters</a> - This program will alert who the imposters are.
 
 #### I am not responsible for your actions with these cheats.
 
