@@ -1,6 +1,6 @@
 <h1 align="center">GimKit Hack</h1>
 <h3 align="center">One of the best GimKit hacks.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/wqz4jW6a</h2>
+<h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
 <h2 align="center">Credits to <a href="https://github.com/hostedposted">@hostedposted</a> for helping me!</h3>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
@@ -8,12 +8,13 @@
 
 ## How To Use:
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on blooket.
+- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on gimkit.
 
 ## Features:
 - Default Scripts:
-    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Answer%20Bot.js">Answer Bot</a> - Make a bot automatically answer the question.
-    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Show%20Correct%20Answers.js">Show Correct Answers</a> - Hide wrong answers on the screen.
+    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Answer%20Bot.js">Answer Bot</a> - Make a bot automatically answer the question. (Broken)
+    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Show%20Correct%20Answers.js">Show Correct Answers</a> - Hide wrong answers on the screen. (Broken)
+    - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Default%20Scripts/Free%20Premium.js">Free Premium</a> - Get free pro/premium.
 - Trust No-One:
     - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Trust%20No-One/Show%20Imposters.js">Show Imposters</a> - This program will alert who the imposters are.
 - Classic:
